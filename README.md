@@ -14,7 +14,7 @@
 - ☕ **Favorite drink:** Coffee (the best ally during late-night coding sessions!)  
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=I'm+involved+in+cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=I'm+involved+in+cybersecurity+☠️)](https://git.io/typing-svg)
 ---
 
 ### 🧑‍💻 **About Me:**  
