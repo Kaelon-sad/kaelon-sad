@@ -3,7 +3,56 @@
 
 ###
 
+---
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/c23f7e43354d3db62d5faa48aa176854/tumblr_ofasxvbPq61rttv88o1_500.gif" alt="Cool GIF" width="300">
+</p>
+
+- 🎂 **Age:** 19  
+- 🎓 **Specialization:** Computer Science and Cybersecurity  
+- ☕ **Favorite drink:** Coffee (the best ally during late-night coding sessions!)  
+
+---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=I'm+involved+in+cybersecurity)](https://git.io/typing-svg)
+---
+
+### 🧑‍💻 **About Me:**  
+
+My story began in a small snowy town where technology seemed distant and inaccessible. Since childhood, I’ve been a curious kid who took apart gadgets to understand how they worked. My first "victim" was an old TV that I accidentally broke while trying to connect a game console. But that didn’t stop me—it sparked my interest in tech and programming.  
+
+In school, I started learning the basics of programming, first on an old Windows XP computer, and later on Linux, which I installed after a week of trial and error. That’s when I realized I wanted to dedicate my life to technology.  
+
+When I moved to the capital to attend university, my world changed. Here, I met like-minded people who shared my passion for computers and cybersecurity. I began diving deeper into programming, learning Python, C++, and JavaScript, as well as mastering tools for vulnerability analysis and data protection.  
+
+---
+
+### ☕ **Coffee Quote:**  
+*"Coffee isn’t just a drink—it’s fuel for ideas that change the world. Every cup is a new bug to fix and a new code to write."*  
+
+---
+
+### 🛠️ **My Tools:**  
+- **Programming Languages:**  
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+  ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)  
+
+- **Web Technologies:**  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+
+- **Design and Graphics:**  
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)  
+
+- **Operating Systems and DevOps:**  
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+
+---
+
 
 ## My GitHub Statistics
 
@@ -21,11 +70,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kaelon-sad)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 ###
 
-------------------------------------------------
+### 📫 **Connect with Me:**  
+- 🌐 **X (Twitter):** [@Kaelon_sad](https://twitter.com/Kaelon_sad)  
